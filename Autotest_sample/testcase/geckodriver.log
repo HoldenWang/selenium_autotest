@@ -1,0 +1,39 @@
+1503997150084	geckodriver	INFO	geckodriver 0.18.0
+1503997150096	geckodriver	INFO	Listening on 127.0.0.1:50149
+1503997151615	geckodriver::marionette	INFO	Starting browser D:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503997154734	Marionette	INFO	Listening on port 50160
+1503997155026	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+urce://gre/modules/Promise-backend.js:932:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:11
+
+*************************
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%8A%B6%E6%80%813&json=1&p=3&sid=1461_18194_21078_22157&req=2&pbs=%E7%8A%B6%E6%80%81&csor=3&pwd=%E7%8A%B6%E6%80%81&cb=jQuery110202536922150238623_1503883908288&_=1503883908317, line 1: TypeError: jQuery110202536922150238623_1503883908288 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%8A%B6%E6%80%8130&json=1&p=3&sid=1461_18194_21078_22157&req=2&pbs=%E7%8A%B6%E6%80%81&csor=4&pwd=%E7%8A%B6%E6%80%813&cb=jQuery110202536922150238623_1503883908288&_=1503883908318, line 1: TypeError: jQuery110202536922150238623_1503883908288 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=%E7%8A%B6%E6%80%81302&json=1&p=3&sid=1461_18194_21078_22157&req=2&pbs=%E7%8A%B6%E6%80%81&csor=5&pwd=%E7%8A%B6%E6%80%8130&cb=jQuery110202536922150238623_1503883908288&_=1503883908319, line 1: TypeError: jQuery110202536922150238623_1503883908288 is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 31312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 31312] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
